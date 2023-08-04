@@ -1,2 +1,21 @@
+form {
+  display: inline-block;
+  margin-top: 20px;
+}
 
-/* Your CSS Code here. */
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+input[type="text"] {
+  margin-bottom: 10px;
+}
+
+input[type="button"] {
+  margin-top: 10px;
+}
+
+#scores {
+  margin-top: 20px;
+}
